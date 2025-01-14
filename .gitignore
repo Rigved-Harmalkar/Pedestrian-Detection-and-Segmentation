@@ -1,0 +1,10 @@
+/data/
+*.p5
+*.h5
+
+*.log
+*.pyc
+*_pycache_/
+
+.ipynb_checkpoints/
+
